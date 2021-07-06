@@ -48,7 +48,7 @@ background-img: "../img/home-bg-ed2.png"
 # Dynamic Text on the Header #
 ##############################
 
-dynamic-typing: True
+dynamic-typing: False
 shuffle: False # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
@@ -232,7 +232,7 @@ err-404-img: "/img/labtocat.png"
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
+  # About: 'about'
   Education: 'education'
   Experience: 'experience'
   Contact: 'contact'
