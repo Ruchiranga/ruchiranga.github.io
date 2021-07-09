@@ -135,6 +135,10 @@ syntax-highlight: True
 ############
 
 experience:
+  - image: "/img/timeline/cssq.png"
+    # date: "Mar. 2017 - Aug. 2018"
+    date: "Credit Suisse"
+    description: "Frontend Software Engineer"
   - image: "/img/timeline/logitech.png"
     # date: "Mar. 2017 - Aug. 2018"
     date: "Logitech"
