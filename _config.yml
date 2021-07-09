@@ -113,7 +113,7 @@ enable-gesture-navigation: False
 
 post-preview-words: 0
 
-paginate: 50
+paginate: 15
 
 email-share: False
 fb-share: False
