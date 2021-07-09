@@ -14,7 +14,7 @@ Not all feature based face detection algorithms utilize machine learning techniq
 
 The specific features used in the ViolaJones algorithm are a set of rectangular patterns called Haar features. Some examples of such Haar features are shown in the following figure.
 
-![Meeting meme](/img/posts/violajones/haar.png)
+![Haar Features](/img/posts/violajones/haar.PNG)
 
 These feature masks are laid over the image in every possible manner and a value that represents the amount that particular region in the image matches the feature mask is calculated. The higher the value, the better the region in the image contains that particular feature. The authors of this research have also suggested a very efficient way of performing this process programmatically by creating an intermediate representation of the image known as the ‘Integral image’.
 
