@@ -16,7 +16,7 @@ baseurl: ""
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "G-20S324YC7J"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -111,22 +111,22 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 96
+post-preview-words: 0
 
-paginate: 5
+paginate: 50
 
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+email-share: False
+fb-share: False
+twitter-share: False
+linkedin-share: False
+reddit-share: False
+google-plus-share: False
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
-disqus-shortname: "personal-jekyll-theme"
+disqus-shortname: "ruchi-techblog"
 
 syntax-highlight: True
 
@@ -188,8 +188,8 @@ pgp: False
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+# author_blurb: "Ruchiranga is a Software Engineer living in Switzerland. He is a passionate developer with a focus on frontend technologies and user experience design."
+# author_blurb_image: "/img/trw_profile_photo_ed.jpg"
 
 ##################
 # Social Buttons #
@@ -236,7 +236,7 @@ pages_list:
   Education: 'education'
   Experience: 'experience'
   Contact: 'contact'
-#  Blog: 'latest-post'
+  # Blog: 'latest-post'
 
 # Exclusion list from the generated _site
 
